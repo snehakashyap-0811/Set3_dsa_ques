@@ -1,3 +1,4 @@
+//cyclic palindrome
 #include <iostream>
 using namespace std;
 string cyclic_palindrome(string s,int count);
