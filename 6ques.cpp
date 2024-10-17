@@ -1,3 +1,5 @@
+//minimum multi of given k 
+//sliding 
 #include <iostream>
 #include <algorithm>
 using namespace std;
