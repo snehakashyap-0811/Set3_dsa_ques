@@ -1,3 +1,6 @@
+//square free number
+// 20--> 1,2,4,5,10,20
+//1 is not a square free number, 4 is perfect - removed, 2 and 5 are square free, 10->1,2,5,10 non perfect square 
 #include <iostream>
 using namespace std;
 bool is_square_free(int n){
